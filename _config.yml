@@ -2,7 +2,7 @@
 title: Hi,I'm Money.
 description: 'Hey,boy!'
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl:
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
